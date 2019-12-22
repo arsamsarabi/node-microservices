@@ -1,0 +1,9 @@
+{
+  "name": "node-microservices",
+  "version": "0.0.1",
+  "description": "React application with node microservices in the backend",
+  "main": "dist/index.js",
+  "repository": "https://github.com/arsamsarabi/node-microservices",
+  "author": "Arsam Sarabi <arsamsarabi@me.com> (https://arsam.io)",
+  "license": "MIT"
+}
